@@ -1,6 +1,6 @@
 {
     "name": "vue-template-space",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Remove spaces(whitespaces) between tags, between tags and content in template of sfc(.vue)",
     "keywords": [
         "vue",
@@ -14,11 +14,9 @@
     },
     "author": "GreenHandLittleWhite",
     "license": "MIT",
-    "dependencies": {
-        "de-indent": "^1.0.2",
-        "he": "^1.2.0"
-    },
     "devDependencies": {
+        "de-indent": "^1.0.2",
+        "he": "^1.2.0",
         "vue-template-compiler": "^2.6.12"
     }
 }
